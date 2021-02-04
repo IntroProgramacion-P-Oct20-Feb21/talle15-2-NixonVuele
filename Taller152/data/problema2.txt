@@ -1,0 +1,3 @@
+Boston Celtics, presupuesto 50348701,2; estadio estadio The Celtics
+Phoenix Suns, presupuesto 40148821,4; estadio estadio The Suns
+
